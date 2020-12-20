@@ -1,10 +1,10 @@
 # Multiply Console App
 
-this aplication allows you to generate files with the multiplication table given
+this aplication allows you to generate  multiplication table files by the base and number given
 
 ------------
 
-#usage 
+## usage 
 
 ```bash
 npm install
