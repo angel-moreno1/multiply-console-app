@@ -4,7 +4,7 @@ This aplication allows you to generate  multiplication table files by the base a
 
 ------------
 
->## usage 
+>## Instructions 
 there are two command: 
 
   - listar
@@ -15,10 +15,11 @@ there are two parameters required by the two commands:
  - base (short command -b) 
  - limite (short command -l)
 
+>## Usage
 ```bash
-npm install
 crear -b 10  -l 10
 ```
+
 
 
 
