@@ -7,21 +7,24 @@ This aplication allows you to generate  multiplication table files by the base a
 >## Instructions 
 there are two command: 
 
-  - listar
-  - crear
+  - listar # show the multiplication table 
+  - crear # create a file width the multiplication table
 
 there are two parameters required by the two commands:
 
- - base (short command -b) 
- - limite (short command -l)
+ - -b (base) 
+ - -l (limit)
 
->## Usage
+>## Usage to create multiplication table file:
+
 ```bash
 crear -b 10  -l 10
 ```
-or 
+
+>## Usage to list the multiplication table:
+
 ```bash
-crear base 10  limite 10
+listar -b 10  -l 10
 ```
 
 
