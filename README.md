@@ -13,11 +13,10 @@ there are two command:
 there are two parameters required by the two commands:
 
  - base (short command -b) 
- - limite (shorts command -l)
+ - limite (short command -l)
 
 ```bash
 npm install
-
 crear -b 10  -l 10
 ```
 
