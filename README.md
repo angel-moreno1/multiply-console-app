@@ -18,13 +18,13 @@ there are two parameters required by the two commands:
 >## Usage to create multiplication table file:
 
 ```bash
-node index.js crear -b 10  -l 10
+$ node index.js crear -b 10  -l 10
 ```
 
 >## Usage to list the multiplication table:
 
 ```bash
-node index.js listar -b 10  -l 10
+$ node index.js listar -b 10  -l 10
 ```
 
 
