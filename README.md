@@ -19,6 +19,10 @@ there are two parameters required by the two commands:
 ```bash
 crear -b 10  -l 10
 ```
+or 
+```bash
+crear base 10  limite 10
+```
 
 
 
